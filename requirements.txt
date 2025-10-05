@@ -1,9 +1,5 @@
-pyTelegramBotAPI==4.15.2
-requests==2.31.0
-pandas==1.5.3
-TA-Lib-Precompiled==0.4.25
-matplotlib==3.9.2
-mplfinance==0.12.10b0
-apscheduler==3.10.4
-python-dotenv==1.0.1
-flask==3.0.3
+python-telegram-bot==20.6
+pandas
+numpy
+pandas_ta
+requests
