@@ -1,7 +1,7 @@
 pyTelegramBotAPI==4.15.2
 requests==2.31.0
-pandas==1.5.3  # Downgrade để tương thích với Python 3.11
-ta-lib==0.4.28  # Giữ nguyên, nhưng sẽ dùng wheel
+pandas==1.5.3
+TA-Lib-Precompiled==0.4.25
 matplotlib==3.9.2
 mplfinance==0.12.10b0
 apscheduler==3.10.4
