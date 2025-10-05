@@ -1,9 +1,9 @@
 pyTelegramBotAPI==4.15.2
 requests==2.31.0
-pandas==2.0.3  # Thay 2.2.2 bằng 2.0.3
+pandas==2.0.3
 ta-lib==0.4.28
 matplotlib==3.9.2
-mplfinance==0.12.10
+mplfinance==0.12.10b0  # Sử dụng beta cho Python 3.13 trên Render
 apscheduler==3.10.4
 python-dotenv==1.0.1
 flask==3.0.3
